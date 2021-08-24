@@ -5,7 +5,7 @@
 <a href="https://goreportcard.com/report/github.com/Mindinventory/Golang-PayU" style="pointer-events: none;" target="_blank"><img src="https://goreportcard.com/badge/github.com/Mindinventory/Golang-PayU"></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mindinventory/Golang-PayU/blob/master/LICENSE)
 
-PayU is one of the widely accepted payment gateways for online payment integration especially in India and other countries like Poland, Brazil, SouthAfrica and Turkey. It might be interesting for you if you are having your website made in GoLang and looking for integrating Payu it as it might be even more simple for you with this repository.
+PayU is one of the widely accepted [payment gateways for online payment integration especially in India](https://payu.in/payment-gateway) and other countries like Poland, Brazil, SouthAfrica and Turkey. It might be interesting for you if you are having your website made in GoLang and looking for integrating Payu it as it might be even more simple for you with this repository.
 
 <img src="https://raw.githubusercontent.com/Mindinventory/Golang-PayU/master/payU.png">
 
